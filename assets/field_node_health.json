@@ -1,0 +1,22 @@
+{
+  "FN_1": {
+    "health_status": "healthy",
+    "confidence": 0.95,
+    "notes": "No signs of disease"
+  },
+  "FN_2": {
+    "health_status": "healthy",
+    "confidence": 0.87,
+    "notes": "Bacterial infection detected"
+  },
+  "FN_3": {
+    "health_status": "bacterial",
+    "confidence": 0.92,
+    "notes": "Good vegetation health"
+  },
+  "FN_4": {
+    "health_status": "healthy",
+    "confidence": 0.78,
+    "notes": "Early bacterial symptoms"
+  }
+}
