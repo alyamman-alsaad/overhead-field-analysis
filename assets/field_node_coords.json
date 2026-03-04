@@ -1,0 +1,26 @@
+{
+  "FN_3": {
+    "x": 679,
+    "y": 195,
+    "detected_frequency": 3.0,
+    "expected_frequency": 3.0
+  },
+  "FN_4": {
+    "x": 362,
+    "y": 199,
+    "detected_frequency": 4.0,
+    "expected_frequency": 4.0
+  },
+  "FN_2": {
+    "x": 230,
+    "y": 406,
+    "detected_frequency": 2.0,
+    "expected_frequency": 2.0
+  },
+  "FN_1": {
+    "x": 112,
+    "y": 116,
+    "detected_frequency": 1.0,
+    "expected_frequency": 1.0
+  }
+}
