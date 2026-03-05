@@ -388,5 +388,5 @@ if __name__ == '__main__':
 
 '''
  Bash Script:
- python frequency-analysis_CG.py --input assets/overhead_video.mp4  --output assets/mapped_nodes.png  --mapping 1.0:FN_1 2.0:FN_2 3.0:FN_3 4.0:FN_4 --save-coords assets/field_node_coords.json
+ python frequency-analysis_AWS.py --input assets/overhead_video.mp4  --output assets/mapped_nodes.png  --mapping 1.0:FN_1 2.0:FN_2 3.0:FN_3 4.0:FN_4 --save-coords assets/field_node_coords.json
 '''

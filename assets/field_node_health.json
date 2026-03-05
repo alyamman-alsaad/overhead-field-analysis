@@ -1,22 +1,22 @@
 {
   "FN_1": {
     "health_status": "healthy",
-    "confidence": 0.95,
-    "notes": "No signs of disease"
+    "battery": 100,
+    "soil-moisture": 500
   },
   "FN_2": {
     "health_status": "healthy",
-    "confidence": 0.87,
-    "notes": "Bacterial infection detected"
+    "battery": 100,
+    "soil-moisture": 500
   },
   "FN_3": {
     "health_status": "bacterial",
-    "confidence": 0.92,
-    "notes": "Good vegetation health"
+    "battery": 100,
+    "soil-moisture": 500
   },
   "FN_4": {
     "health_status": "healthy",
-    "confidence": 0.78,
-    "notes": "Early bacterial symptoms"
+    "battery": 100,
+    "soil-moisture": 500
   }
 }
