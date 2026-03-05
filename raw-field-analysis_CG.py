@@ -334,7 +334,7 @@ if __name__ == "__main__":
     # Display results unless --no-display flag is set
     if not args.no_display:
         cv2.imshow("Original Image", results['original'])
-        cv2.imshow("Health Analysis", results['output'])
+        cv2.imshow("Raw Health Analysis", results['output'])
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
@@ -342,6 +342,6 @@ if __name__ == "__main__":
     print(f"Total cells analyzed: {len(results['classifications'])}")
 
 '''
- Bash Script:
+ Bash Script (1):
  python raw-field-analysis_CG.py assets/overhead_img.jpg -o assets/raw_field_analysis.jpg -j assets/raw_health_data.json
 '''
