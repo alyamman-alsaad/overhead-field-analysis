@@ -1,0 +1,2519 @@
+{
+  "total_cells": 66,
+  "summary": {
+    "very_healthy": 27,
+    "very_unhealthy": 27,
+    "mostly_healthy": 7,
+    "mostly_unhealthy": 5
+  },
+  "cells": [
+    {
+      "cell_id": 0,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6700680272108843,
+        "mostly_healthy": 0.2167800453514739,
+        "mostly_unhealthy": 0.11768707482993197,
+        "very_unhealthy": 0.09138321995464853
+      },
+      "center": [
+        53,
+        41
+      ],
+      "bounds": {
+        "min_x": 19,
+        "max_x": 90,
+        "min_y": 10,
+        "max_y": 73
+      },
+      "corners": [
+        [
+          19,
+          11
+        ],
+        [
+          90,
+          10
+        ],
+        [
+          86,
+          73
+        ],
+        [
+          19,
+          72
+        ]
+      ]
+    },
+    {
+      "cell_id": 1,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6010174418604651,
+        "mostly_healthy": 0.3234011627906977,
+        "mostly_unhealthy": 0.1555232558139535,
+        "very_unhealthy": 0.07025193798449612
+      },
+      "center": [
+        119,
+        41
+      ],
+      "bounds": {
+        "min_x": 86,
+        "max_x": 154,
+        "min_y": 10,
+        "max_y": 73
+      },
+      "corners": [
+        [
+          90,
+          10
+        ],
+        [
+          154,
+          10
+        ],
+        [
+          149,
+          73
+        ],
+        [
+          86,
+          73
+        ]
+      ]
+    },
+    {
+      "cell_id": 2,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5814140332083556,
+        "mostly_healthy": 0.1079271558650241,
+        "mostly_unhealthy": 0.2504017139796465,
+        "very_unhealthy": 0.028387787895018748
+      },
+      "center": [
+        180,
+        40
+      ],
+      "bounds": {
+        "min_x": 149,
+        "max_x": 210,
+        "min_y": 8,
+        "max_y": 73
+      },
+      "corners": [
+        [
+          154,
+          10
+        ],
+        [
+          210,
+          8
+        ],
+        [
+          207,
+          72
+        ],
+        [
+          149,
+          73
+        ]
+      ]
+    },
+    {
+      "cell_id": 3,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.025959108660693776,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.14794394670342292,
+        "very_unhealthy": 0.9425683436710315
+      },
+      "center": [
+        241,
+        39
+      ],
+      "bounds": {
+        "min_x": 207,
+        "max_x": 276,
+        "min_y": 8,
+        "max_y": 72
+      },
+      "corners": [
+        [
+          210,
+          8
+        ],
+        [
+          276,
+          8
+        ],
+        [
+          274,
+          71
+        ],
+        [
+          207,
+          72
+        ]
+      ]
+    },
+    {
+      "cell_id": 4,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.015902964959568732,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.12533692722371967,
+        "very_unhealthy": 0.9606469002695418
+      },
+      "center": [
+        303,
+        38
+      ],
+      "bounds": {
+        "min_x": 274,
+        "max_x": 335,
+        "min_y": 7,
+        "max_y": 71
+      },
+      "corners": [
+        [
+          276,
+          8
+        ],
+        [
+          335,
+          7
+        ],
+        [
+          330,
+          69
+        ],
+        [
+          274,
+          71
+        ]
+      ]
+    },
+    {
+      "cell_id": 5,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5305067218200621,
+        "mostly_healthy": 0.2078593588417787,
+        "mostly_unhealthy": 0.25749741468459153,
+        "very_unhealthy": 0.07988624612202688
+      },
+      "center": [
+        362,
+        37
+      ],
+      "bounds": {
+        "min_x": 330,
+        "max_x": 393,
+        "min_y": 5,
+        "max_y": 69
+      },
+      "corners": [
+        [
+          335,
+          7
+        ],
+        [
+          393,
+          5
+        ],
+        [
+          391,
+          69
+        ],
+        [
+          330,
+          69
+        ]
+      ]
+    },
+    {
+      "cell_id": 6,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.004324843825084094,
+        "mostly_healthy": 0.0002402691013935608,
+        "mostly_unhealthy": 0.02763094666025949,
+        "very_unhealthy": 0.9735703988467083
+      },
+      "center": [
+        423,
+        37
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 456,
+        "min_y": 5,
+        "max_y": 70
+      },
+      "corners": [
+        [
+          393,
+          5
+        ],
+        [
+          455,
+          7
+        ],
+        [
+          456,
+          70
+        ],
+        [
+          391,
+          69
+        ]
+      ]
+    },
+    {
+      "cell_id": 7,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.0022865853658536584,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.046239837398373985,
+        "very_unhealthy": 0.9692581300813008
+      },
+      "center": [
+        485,
+        38
+      ],
+      "bounds": {
+        "min_x": 455,
+        "max_x": 517,
+        "min_y": 7,
+        "max_y": 70
+      },
+      "corners": [
+        [
+          455,
+          7
+        ],
+        [
+          515,
+          7
+        ],
+        [
+          517,
+          70
+        ],
+        [
+          456,
+          70
+        ]
+      ]
+    },
+    {
+      "cell_id": 8,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.016441262264651285,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.13259082471492972,
+        "very_unhealthy": 0.9278705913550782
+      },
+      "center": [
+        544,
+        38
+      ],
+      "bounds": {
+        "min_x": 515,
+        "max_x": 575,
+        "min_y": 7,
+        "max_y": 71
+      },
+      "corners": [
+        [
+          515,
+          7
+        ],
+        [
+          572,
+          7
+        ],
+        [
+          575,
+          71
+        ],
+        [
+          517,
+          70
+        ]
+      ]
+    },
+    {
+      "cell_id": 9,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.02783625730994152,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.0343859649122807,
+        "very_unhealthy": 0.943625730994152
+      },
+      "center": [
+        606,
+        41
+      ],
+      "bounds": {
+        "min_x": 572,
+        "max_x": 641,
+        "min_y": 7,
+        "max_y": 74
+      },
+      "corners": [
+        [
+          572,
+          7
+        ],
+        [
+          638,
+          12
+        ],
+        [
+          641,
+          74
+        ],
+        [
+          575,
+          71
+        ]
+      ]
+    },
+    {
+      "cell_id": 10,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.04695304695304695,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.41183816183816185,
+        "very_unhealthy": 0.8296703296703297
+      },
+      "center": [
+        670,
+        42
+      ],
+      "bounds": {
+        "min_x": 638,
+        "max_x": 704,
+        "min_y": 11,
+        "max_y": 74
+      },
+      "corners": [
+        [
+          638,
+          12
+        ],
+        [
+          700,
+          11
+        ],
+        [
+          704,
+          73
+        ],
+        [
+          641,
+          74
+        ]
+      ]
+    },
+    {
+      "cell_id": 11,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6255380200860832,
+        "mostly_healthy": 0.13071895424836602,
+        "mostly_unhealthy": 0.20723736649131197,
+        "very_unhealthy": 0.07237366491311972
+      },
+      "center": [
+        46,
+        117
+      ],
+      "bounds": {
+        "min_x": 7,
+        "max_x": 86,
+        "min_y": 72,
+        "max_y": 163
+      },
+      "corners": [
+        [
+          19,
+          72
+        ],
+        [
+          86,
+          73
+        ],
+        [
+          75,
+          163
+        ],
+        [
+          7,
+          163
+        ]
+      ]
+    },
+    {
+      "cell_id": 12,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5035326555230053,
+        "mostly_healthy": 0.4380492848526624,
+        "mostly_unhealthy": 0.12700327416853352,
+        "very_unhealthy": 0.06824056522488368
+      },
+      "center": [
+        112,
+        117
+      ],
+      "bounds": {
+        "min_x": 75,
+        "max_x": 149,
+        "min_y": 73,
+        "max_y": 163
+      },
+      "corners": [
+        [
+          86,
+          73
+        ],
+        [
+          149,
+          73
+        ],
+        [
+          140,
+          160
+        ],
+        [
+          75,
+          163
+        ]
+      ]
+    },
+    {
+      "cell_id": 13,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5709059233449477,
+        "mostly_healthy": 0.19494773519163763,
+        "mostly_unhealthy": 0.2308362369337979,
+        "very_unhealthy": 0.07421602787456447
+      },
+      "center": [
+        176,
+        116
+      ],
+      "bounds": {
+        "min_x": 140,
+        "max_x": 209,
+        "min_y": 72,
+        "max_y": 161
+      },
+      "corners": [
+        [
+          149,
+          73
+        ],
+        [
+          207,
+          72
+        ],
+        [
+          209,
+          161
+        ],
+        [
+          140,
+          160
+        ]
+      ]
+    },
+    {
+      "cell_id": 14,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.18411432369557992,
+        "mostly_healthy": 0.6370887337986042,
+        "mostly_unhealthy": 0.10634762379528083,
+        "very_unhealthy": 0.11050182784978398
+      },
+      "center": [
+        240,
+        116
+      ],
+      "bounds": {
+        "min_x": 207,
+        "max_x": 274,
+        "min_y": 71,
+        "max_y": 161
+      },
+      "corners": [
+        [
+          207,
+          72
+        ],
+        [
+          274,
+          71
+        ],
+        [
+          273,
+          161
+        ],
+        [
+          209,
+          161
+        ]
+      ]
+    },
+    {
+      "cell_id": 15,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6632633403968407,
+        "mostly_healthy": 0.1695241764592564,
+        "mostly_unhealthy": 0.17029474089770757,
+        "very_unhealthy": 0.03910614525139665
+      },
+      "center": [
+        302,
+        114
+      ],
+      "bounds": {
+        "min_x": 273,
+        "max_x": 331,
+        "min_y": 69,
+        "max_y": 161
+      },
+      "corners": [
+        [
+          274,
+          71
+        ],
+        [
+          330,
+          69
+        ],
+        [
+          331,
+          156
+        ],
+        [
+          273,
+          161
+        ]
+      ]
+    },
+    {
+      "cell_id": 16,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5911444384931263,
+        "mostly_healthy": 0.1294411712194251,
+        "mostly_unhealthy": 0.19800035707909303,
+        "very_unhealthy": 0.07927155865024103
+      },
+      "center": [
+        362,
+        112
+      ],
+      "bounds": {
+        "min_x": 330,
+        "max_x": 396,
+        "min_y": 69,
+        "max_y": 156
+      },
+      "corners": [
+        [
+          330,
+          69
+        ],
+        [
+          391,
+          69
+        ],
+        [
+          396,
+          155
+        ],
+        [
+          331,
+          156
+        ]
+      ]
+    },
+    {
+      "cell_id": 17,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.006323396567299007,
+        "mostly_healthy": 0.0001806684733514002,
+        "mostly_unhealthy": 0.023125564588979224,
+        "very_unhealthy": 0.9797651309846431
+      },
+      "center": [
+        425,
+        112
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 457,
+        "min_y": 69,
+        "max_y": 155
+      },
+      "corners": [
+        [
+          391,
+          69
+        ],
+        [
+          456,
+          70
+        ],
+        [
+          457,
+          155
+        ],
+        [
+          396,
+          155
+        ]
+      ]
+    },
+    {
+      "cell_id": 18,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.011906976744186046,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.029767441860465118,
+        "very_unhealthy": 0.9652093023255814
+      },
+      "center": [
+        487,
+        112
+      ],
+      "bounds": {
+        "min_x": 456,
+        "max_x": 519,
+        "min_y": 70,
+        "max_y": 155
+      },
+      "corners": [
+        [
+          456,
+          70
+        ],
+        [
+          517,
+          70
+        ],
+        [
+          519,
+          155
+        ],
+        [
+          457,
+          155
+        ]
+      ]
+    },
+    {
+      "cell_id": 19,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.017029328287606435,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.5867549668874172,
+        "very_unhealthy": 0.831031220435194
+      },
+      "center": [
+        548,
+        113
+      ],
+      "bounds": {
+        "min_x": 517,
+        "max_x": 582,
+        "min_y": 70,
+        "max_y": 156
+      },
+      "corners": [
+        [
+          517,
+          70
+        ],
+        [
+          575,
+          71
+        ],
+        [
+          582,
+          156
+        ],
+        [
+          519,
+          155
+        ]
+      ]
+    },
+    {
+      "cell_id": 20,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.02868271954674221,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.03381728045325779,
+        "very_unhealthy": 0.949185552407932
+      },
+      "center": [
+        610,
+        115
+      ],
+      "bounds": {
+        "min_x": 575,
+        "max_x": 645,
+        "min_y": 71,
+        "max_y": 160
+      },
+      "corners": [
+        [
+          575,
+          71
+        ],
+        [
+          641,
+          74
+        ],
+        [
+          645,
+          160
+        ],
+        [
+          582,
+          156
+        ]
+      ]
+    },
+    {
+      "cell_id": 21,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.04681079149544399,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.6839378238341969,
+        "very_unhealthy": 0.8109701625871002
+      },
+      "center": [
+        675,
+        116
+      ],
+      "bounds": {
+        "min_x": 641,
+        "max_x": 710,
+        "min_y": 73,
+        "max_y": 160
+      },
+      "corners": [
+        [
+          641,
+          74
+        ],
+        [
+          704,
+          73
+        ],
+        [
+          710,
+          157
+        ],
+        [
+          645,
+          160
+        ]
+      ]
+    },
+    {
+      "cell_id": 22,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6614749483955714,
+        "mostly_healthy": 0.10677425408144117,
+        "mostly_unhealthy": 0.18521298555076,
+        "very_unhealthy": 0.04541189716644774
+      },
+      "center": [
+        40,
+        199
+      ],
+      "bounds": {
+        "min_x": 4,
+        "max_x": 77,
+        "min_y": 163,
+        "max_y": 238
+      },
+      "corners": [
+        [
+          7,
+          163
+        ],
+        [
+          75,
+          163
+        ],
+        [
+          77,
+          238
+        ],
+        [
+          4,
+          235
+        ]
+      ]
+    },
+    {
+      "cell_id": 23,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.41741561813461153,
+        "mostly_healthy": 0.5164769322947873,
+        "mostly_unhealthy": 0.1176353105652087,
+        "very_unhealthy": 0.06211304174156181
+      },
+      "center": [
+        108,
+        199
+      ],
+      "bounds": {
+        "min_x": 75,
+        "max_x": 140,
+        "min_y": 160,
+        "max_y": 238
+      },
+      "corners": [
+        [
+          75,
+          163
+        ],
+        [
+          140,
+          160
+        ],
+        [
+          140,
+          237
+        ],
+        [
+          77,
+          238
+        ]
+      ]
+    },
+    {
+      "cell_id": 24,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5721700938311041,
+        "mostly_healthy": 0.33040527051307644,
+        "mostly_unhealthy": 0.16610101816729886,
+        "very_unhealthy": 0.07426632062287881
+      },
+      "center": [
+        172,
+        198
+      ],
+      "bounds": {
+        "min_x": 140,
+        "max_x": 209,
+        "min_y": 160,
+        "max_y": 237
+      },
+      "corners": [
+        [
+          140,
+          160
+        ],
+        [
+          209,
+          161
+        ],
+        [
+          200,
+          235
+        ],
+        [
+          140,
+          237
+        ]
+      ]
+    },
+    {
+      "cell_id": 25,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.18799368088467613,
+        "mostly_healthy": 0.6642969984202212,
+        "mostly_unhealthy": 0.09557661927330174,
+        "very_unhealthy": 0.08925750394944708
+      },
+      "center": [
+        238,
+        197
+      ],
+      "bounds": {
+        "min_x": 200,
+        "max_x": 273,
+        "min_y": 161,
+        "max_y": 235
+      },
+      "corners": [
+        [
+          209,
+          161
+        ],
+        [
+          273,
+          161
+        ],
+        [
+          270,
+          234
+        ],
+        [
+          200,
+          235
+        ]
+      ]
+    },
+    {
+      "cell_id": 26,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6274250440917107,
+        "mostly_healthy": 0.23236331569664903,
+        "mostly_unhealthy": 0.21274250440917108,
+        "very_unhealthy": 0.037037037037037035
+      },
+      "center": [
+        300,
+        196
+      ],
+      "bounds": {
+        "min_x": 270,
+        "max_x": 331,
+        "min_y": 156,
+        "max_y": 235
+      },
+      "corners": [
+        [
+          273,
+          161
+        ],
+        [
+          331,
+          156
+        ],
+        [
+          328,
+          235
+        ],
+        [
+          270,
+          234
+        ]
+      ]
+    },
+    {
+      "cell_id": 27,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5962022863786088,
+        "mostly_healthy": 0.1521023057546987,
+        "mostly_unhealthy": 0.20771168378221275,
+        "very_unhealthy": 0.07731059872117807
+      },
+      "center": [
+        361,
+        194
+      ],
+      "bounds": {
+        "min_x": 328,
+        "max_x": 396,
+        "min_y": 155,
+        "max_y": 235
+      },
+      "corners": [
+        [
+          331,
+          156
+        ],
+        [
+          396,
+          155
+        ],
+        [
+          391,
+          233
+        ],
+        [
+          328,
+          235
+        ]
+      ]
+    },
+    {
+      "cell_id": 28,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.00311587147030185,
+        "mostly_healthy": 0.00038948393378773126,
+        "mostly_unhealthy": 0.028237585199610515,
+        "very_unhealthy": 0.9809152872444011
+      },
+      "center": [
+        425,
+        194
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 458,
+        "min_y": 155,
+        "max_y": 233
+      },
+      "corners": [
+        [
+          396,
+          155
+        ],
+        [
+          457,
+          155
+        ],
+        [
+          458,
+          233
+        ],
+        [
+          391,
+          233
+        ]
+      ]
+    },
+    {
+      "cell_id": 29,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.005050505050505051,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.03156565656565657,
+        "very_unhealthy": 0.9808501683501684
+      },
+      "center": [
+        488,
+        192
+      ],
+      "bounds": {
+        "min_x": 457,
+        "max_x": 519,
+        "min_y": 155,
+        "max_y": 233
+      },
+      "corners": [
+        [
+          457,
+          155
+        ],
+        [
+          519,
+          155
+        ],
+        [
+          519,
+          227
+        ],
+        [
+          458,
+          233
+        ]
+      ]
+    },
+    {
+      "cell_id": 30,
+      "classification": "mostly_unhealthy",
+      "ratios": {
+        "very_healthy": 0.01751459549624687,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.7454128440366973,
+        "very_unhealthy": 0.560884070058382
+      },
+      "center": [
+        550,
+        192
+      ],
+      "bounds": {
+        "min_x": 519,
+        "max_x": 582,
+        "min_y": 155,
+        "max_y": 233
+      },
+      "corners": [
+        [
+          519,
+          155
+        ],
+        [
+          582,
+          156
+        ],
+        [
+          581,
+          233
+        ],
+        [
+          519,
+          227
+        ]
+      ]
+    },
+    {
+      "cell_id": 31,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.024198308085776117,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.03167420814479638,
+        "very_unhealthy": 0.9582923470391501
+      },
+      "center": [
+        614,
+        195
+      ],
+      "bounds": {
+        "min_x": 581,
+        "max_x": 649,
+        "min_y": 156,
+        "max_y": 234
+      },
+      "corners": [
+        [
+          582,
+          156
+        ],
+        [
+          645,
+          160
+        ],
+        [
+          649,
+          234
+        ],
+        [
+          581,
+          233
+        ]
+      ]
+    },
+    {
+      "cell_id": 32,
+      "classification": "mostly_unhealthy",
+      "ratios": {
+        "very_healthy": 0.037504858142246404,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.7104547221142635,
+        "very_unhealthy": 0.6813058686358336
+      },
+      "center": [
+        679,
+        197
+      ],
+      "bounds": {
+        "min_x": 645,
+        "max_x": 714,
+        "min_y": 157,
+        "max_y": 237
+      },
+      "corners": [
+        [
+          645,
+          160
+        ],
+        [
+          710,
+          157
+        ],
+        [
+          714,
+          237
+        ],
+        [
+          649,
+          234
+        ]
+      ]
+    },
+    {
+      "cell_id": 33,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7156172328086164,
+        "mostly_healthy": 0.05758077879038939,
+        "mostly_unhealthy": 0.14229494614747307,
+        "very_unhealthy": 0.05758077879038939
+      },
+      "center": [
+        39,
+        269
+      ],
+      "bounds": {
+        "min_x": 3,
+        "max_x": 77,
+        "min_y": 235,
+        "max_y": 303
+      },
+      "corners": [
+        [
+          4,
+          235
+        ],
+        [
+          77,
+          238
+        ],
+        [
+          73,
+          303
+        ],
+        [
+          3,
+          301
+        ]
+      ]
+    },
+    {
+      "cell_id": 34,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5781553398058252,
+        "mostly_healthy": 0.36966019417475726,
+        "mostly_unhealthy": 0.1133495145631068,
+        "very_unhealthy": 0.05461165048543689
+      },
+      "center": [
+        105,
+        270
+      ],
+      "bounds": {
+        "min_x": 73,
+        "max_x": 140,
+        "min_y": 237,
+        "max_y": 303
+      },
+      "corners": [
+        [
+          77,
+          238
+        ],
+        [
+          140,
+          237
+        ],
+        [
+          132,
+          303
+        ],
+        [
+          73,
+          303
+        ]
+      ]
+    },
+    {
+      "cell_id": 35,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5835866261398176,
+        "mostly_healthy": 0.31797989244797753,
+        "mostly_unhealthy": 0.1540799625906009,
+        "very_unhealthy": 0.06570025718961889
+      },
+      "center": [
+        167,
+        269
+      ],
+      "bounds": {
+        "min_x": 132,
+        "max_x": 200,
+        "min_y": 235,
+        "max_y": 303
+      },
+      "corners": [
+        [
+          140,
+          237
+        ],
+        [
+          200,
+          235
+        ],
+        [
+          196,
+          303
+        ],
+        [
+          132,
+          303
+        ]
+      ]
+    },
+    {
+      "cell_id": 36,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.24909310761789602,
+        "mostly_healthy": 0.5783958081418783,
+        "mostly_unhealthy": 0.09693671906489319,
+        "very_unhealthy": 0.12595727529222087
+      },
+      "center": [
+        233,
+        268
+      ],
+      "bounds": {
+        "min_x": 196,
+        "max_x": 270,
+        "min_y": 234,
+        "max_y": 303
+      },
+      "corners": [
+        [
+          200,
+          235
+        ],
+        [
+          270,
+          234
+        ],
+        [
+          269,
+          301
+        ],
+        [
+          196,
+          303
+        ]
+      ]
+    },
+    {
+      "cell_id": 37,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5591247672253259,
+        "mostly_healthy": 0.2905027932960894,
+        "mostly_unhealthy": 0.18272811918063314,
+        "very_unhealthy": 0.08729050279329609
+      },
+      "center": [
+        299,
+        269
+      ],
+      "bounds": {
+        "min_x": 269,
+        "max_x": 331,
+        "min_y": 234,
+        "max_y": 307
+      },
+      "corners": [
+        [
+          270,
+          234
+        ],
+        [
+          328,
+          235
+        ],
+        [
+          331,
+          307
+        ],
+        [
+          269,
+          301
+        ]
+      ]
+    },
+    {
+      "cell_id": 38,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.22083805209513024,
+        "mostly_healthy": 0.5768969422423557,
+        "mostly_unhealthy": 0.14088335220838052,
+        "very_unhealthy": 0.10849377123442809
+      },
+      "center": [
+        360,
+        268
+      ],
+      "bounds": {
+        "min_x": 328,
+        "max_x": 391,
+        "min_y": 233,
+        "max_y": 307
+      },
+      "corners": [
+        [
+          328,
+          235
+        ],
+        [
+          391,
+          233
+        ],
+        [
+          391,
+          300
+        ],
+        [
+          331,
+          307
+        ]
+      ]
+    },
+    {
+      "cell_id": 39,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.004293688278231,
+        "mostly_healthy": 0.00923142979819665,
+        "mostly_unhealthy": 0.02511807642765135,
+        "very_unhealthy": 0.9705882352941176
+      },
+      "center": [
+        424,
+        266
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 459,
+        "min_y": 233,
+        "max_y": 300
+      },
+      "corners": [
+        [
+          391,
+          233
+        ],
+        [
+          458,
+          233
+        ],
+        [
+          459,
+          300
+        ],
+        [
+          391,
+          300
+        ]
+      ]
+    },
+    {
+      "cell_id": 40,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.012295081967213115,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.05500431406384815,
+        "very_unhealthy": 0.9579378774805867
+      },
+      "center": [
+        489,
+        266
+      ],
+      "bounds": {
+        "min_x": 458,
+        "max_x": 523,
+        "min_y": 227,
+        "max_y": 304
+      },
+      "corners": [
+        [
+          458,
+          233
+        ],
+        [
+          519,
+          227
+        ],
+        [
+          523,
+          304
+        ],
+        [
+          459,
+          300
+        ]
+      ]
+    },
+    {
+      "cell_id": 41,
+      "classification": "mostly_unhealthy",
+      "ratios": {
+        "very_healthy": 0.03382710590316162,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.863586115410126,
+        "very_unhealthy": 0.2516029184169799
+      },
+      "center": [
+        551,
+        266
+      ],
+      "bounds": {
+        "min_x": 519,
+        "max_x": 583,
+        "min_y": 227,
+        "max_y": 304
+      },
+      "corners": [
+        [
+          519,
+          227
+        ],
+        [
+          581,
+          233
+        ],
+        [
+          583,
+          300
+        ],
+        [
+          523,
+          304
+        ]
+      ]
+    },
+    {
+      "cell_id": 42,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.027538364515450914,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.13579987387008619,
+        "very_unhealthy": 0.9388269918015556
+      },
+      "center": [
+        616,
+        266
+      ],
+      "bounds": {
+        "min_x": 581,
+        "max_x": 654,
+        "min_y": 233,
+        "max_y": 300
+      },
+      "corners": [
+        [
+          581,
+          233
+        ],
+        [
+          649,
+          234
+        ],
+        [
+          654,
+          300
+        ],
+        [
+          583,
+          300
+        ]
+      ]
+    },
+    {
+      "cell_id": 43,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.022389764679003884,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.10646561571852867,
+        "very_unhealthy": 0.9156956819739548
+      },
+      "center": [
+        684,
+        268
+      ],
+      "bounds": {
+        "min_x": 649,
+        "max_x": 720,
+        "min_y": 234,
+        "max_y": 301
+      },
+      "corners": [
+        [
+          649,
+          234
+        ],
+        [
+          714,
+          237
+        ],
+        [
+          720,
+          301
+        ],
+        [
+          654,
+          300
+        ]
+      ]
+    },
+    {
+      "cell_id": 44,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7886917960088692,
+        "mostly_healthy": 0.03370288248337029,
+        "mostly_unhealthy": 0.10310421286031042,
+        "very_unhealthy": 0.037915742793791576
+      },
+      "center": [
+        36,
+        337
+      ],
+      "bounds": {
+        "min_x": 3,
+        "max_x": 73,
+        "min_y": 301,
+        "max_y": 373
+      },
+      "corners": [
+        [
+          3,
+          301
+        ],
+        [
+          73,
+          303
+        ],
+        [
+          61,
+          373
+        ],
+        [
+          7,
+          372
+        ]
+      ]
+    },
+    {
+      "cell_id": 45,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6550537634408602,
+        "mostly_healthy": 0.27806451612903227,
+        "mostly_unhealthy": 0.11419354838709678,
+        "very_unhealthy": 0.06064516129032258
+      },
+      "center": [
+        99,
+        337
+      ],
+      "bounds": {
+        "min_x": 61,
+        "max_x": 133,
+        "min_y": 303,
+        "max_y": 373
+      },
+      "corners": [
+        [
+          73,
+          303
+        ],
+        [
+          132,
+          303
+        ],
+        [
+          133,
+          371
+        ],
+        [
+          61,
+          373
+        ]
+      ]
+    },
+    {
+      "cell_id": 46,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6586353944562899,
+        "mostly_healthy": 0.24477611940298508,
+        "mostly_unhealthy": 0.1257995735607676,
+        "very_unhealthy": 0.06673773987206823
+      },
+      "center": [
+        165,
+        337
+      ],
+      "bounds": {
+        "min_x": 132,
+        "max_x": 202,
+        "min_y": 303,
+        "max_y": 372
+      },
+      "corners": [
+        [
+          132,
+          303
+        ],
+        [
+          196,
+          303
+        ],
+        [
+          202,
+          372
+        ],
+        [
+          133,
+          371
+        ]
+      ]
+    },
+    {
+      "cell_id": 47,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.27589722675367045,
+        "mostly_healthy": 0.6207177814029364,
+        "mostly_unhealthy": 0.07911908646003263,
+        "very_unhealthy": 0.09318923327895595
+      },
+      "center": [
+        233,
+        336
+      ],
+      "bounds": {
+        "min_x": 196,
+        "max_x": 269,
+        "min_y": 301,
+        "max_y": 372
+      },
+      "corners": [
+        [
+          196,
+          303
+        ],
+        [
+          269,
+          301
+        ],
+        [
+          267,
+          370
+        ],
+        [
+          202,
+          372
+        ]
+      ]
+    },
+    {
+      "cell_id": 48,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.6259541984732825,
+        "mostly_healthy": 0.26069858894286374,
+        "mostly_unhealthy": 0.1535970390932223,
+        "very_unhealthy": 0.06962757344436733
+      },
+      "center": [
+        300,
+        336
+      ],
+      "bounds": {
+        "min_x": 267,
+        "max_x": 333,
+        "min_y": 301,
+        "max_y": 370
+      },
+      "corners": [
+        [
+          269,
+          301
+        ],
+        [
+          331,
+          307
+        ],
+        [
+          333,
+          369
+        ],
+        [
+          267,
+          370
+        ]
+      ]
+    },
+    {
+      "cell_id": 49,
+      "classification": "mostly_healthy",
+      "ratios": {
+        "very_healthy": 0.21813173052842474,
+        "mostly_healthy": 0.6739293764087152,
+        "mostly_unhealthy": 0.10267968945654896,
+        "very_unhealthy": 0.04132231404958678
+      },
+      "center": [
+        361,
+        336
+      ],
+      "bounds": {
+        "min_x": 331,
+        "max_x": 391,
+        "min_y": 300,
+        "max_y": 369
+      },
+      "corners": [
+        [
+          331,
+          307
+        ],
+        [
+          391,
+          300
+        ],
+        [
+          391,
+          369
+        ],
+        [
+          333,
+          369
+        ]
+      ]
+    },
+    {
+      "cell_id": 50,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.005103082261686058,
+        "mostly_healthy": 0.013472137170851195,
+        "mostly_unhealthy": 0.02204531537048377,
+        "very_unhealthy": 0.9614206981016534
+      },
+      "center": [
+        425,
+        334
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 460,
+        "min_y": 300,
+        "max_y": 370
+      },
+      "corners": [
+        [
+          391,
+          300
+        ],
+        [
+          459,
+          300
+        ],
+        [
+          460,
+          370
+        ],
+        [
+          391,
+          369
+        ]
+      ]
+    },
+    {
+      "cell_id": 51,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.010552312528064661,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.08037718904355635,
+        "very_unhealthy": 0.9607094746295465
+      },
+      "center": [
+        491,
+        335
+      ],
+      "bounds": {
+        "min_x": 459,
+        "max_x": 524,
+        "min_y": 300,
+        "max_y": 370
+      },
+      "corners": [
+        [
+          459,
+          300
+        ],
+        [
+          523,
+          304
+        ],
+        [
+          524,
+          369
+        ],
+        [
+          460,
+          370
+        ]
+      ]
+    },
+    {
+      "cell_id": 52,
+      "classification": "mostly_unhealthy",
+      "ratios": {
+        "very_healthy": 0.054403567447045706,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.7852842809364549,
+        "very_unhealthy": 0.16610925306577481
+      },
+      "center": [
+        555,
+        336
+      ],
+      "bounds": {
+        "min_x": 523,
+        "max_x": 591,
+        "min_y": 300,
+        "max_y": 372
+      },
+      "corners": [
+        [
+          523,
+          304
+        ],
+        [
+          583,
+          300
+        ],
+        [
+          591,
+          372
+        ],
+        [
+          524,
+          369
+        ]
+      ]
+    },
+    {
+      "cell_id": 53,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.034937113196246754,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.13256138949890198,
+        "very_unhealthy": 0.9243361948492713
+      },
+      "center": [
+        621,
+        335
+      ],
+      "bounds": {
+        "min_x": 583,
+        "max_x": 657,
+        "min_y": 300,
+        "max_y": 372
+      },
+      "corners": [
+        [
+          583,
+          300
+        ],
+        [
+          654,
+          300
+        ],
+        [
+          657,
+          370
+        ],
+        [
+          591,
+          372
+        ]
+      ]
+    },
+    {
+      "cell_id": 54,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.03196156256528097,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.03843743471903071,
+        "very_unhealthy": 0.945268435345728
+      },
+      "center": [
+        688,
+        335
+      ],
+      "bounds": {
+        "min_x": 654,
+        "max_x": 723,
+        "min_y": 300,
+        "max_y": 372
+      },
+      "corners": [
+        [
+          654,
+          300
+        ],
+        [
+          720,
+          301
+        ],
+        [
+          723,
+          372
+        ],
+        [
+          657,
+          370
+        ]
+      ]
+    },
+    {
+      "cell_id": 55,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.8769872296064634,
+        "mostly_healthy": 0.006254886630179828,
+        "mostly_unhealthy": 0.06463382851185823,
+        "very_unhealthy": 0.015115976022934585
+      },
+      "center": [
+        32,
+        407
+      ],
+      "bounds": {
+        "min_x": 5,
+        "max_x": 61,
+        "min_y": 372,
+        "max_y": 443
+      },
+      "corners": [
+        [
+          7,
+          372
+        ],
+        [
+          61,
+          373
+        ],
+        [
+          57,
+          443
+        ],
+        [
+          5,
+          442
+        ]
+      ]
+    },
+    {
+      "cell_id": 56,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7811377811377811,
+        "mostly_healthy": 0.1355131355131355,
+        "mostly_unhealthy": 0.07767907767907768,
+        "very_unhealthy": 0.06312606312606313
+      },
+      "center": [
+        94,
+        408
+      ],
+      "bounds": {
+        "min_x": 57,
+        "max_x": 133,
+        "min_y": 371,
+        "max_y": 445
+      },
+      "corners": [
+        [
+          61,
+          373
+        ],
+        [
+          133,
+          371
+        ],
+        [
+          128,
+          445
+        ],
+        [
+          57,
+          443
+        ]
+      ]
+    },
+    {
+      "cell_id": 57,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7633181126331812,
+        "mostly_healthy": 0.11529680365296803,
+        "mostly_unhealthy": 0.09227549467275495,
+        "very_unhealthy": 0.064117199391172
+      },
+      "center": [
+        164,
+        409
+      ],
+      "bounds": {
+        "min_x": 128,
+        "max_x": 202,
+        "min_y": 371,
+        "max_y": 448
+      },
+      "corners": [
+        [
+          133,
+          371
+        ],
+        [
+          202,
+          372
+        ],
+        [
+          195,
+          448
+        ],
+        [
+          128,
+          445
+        ]
+      ]
+    },
+    {
+      "cell_id": 58,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.5118930607430706,
+        "mostly_healthy": 0.4544918419500688,
+        "mostly_unhealthy": 0.056025162178101044,
+        "very_unhealthy": 0.07430705720463927
+      },
+      "center": [
+        232,
+        407
+      ],
+      "bounds": {
+        "min_x": 195,
+        "max_x": 267,
+        "min_y": 370,
+        "max_y": 448
+      },
+      "corners": [
+        [
+          202,
+          372
+        ],
+        [
+          267,
+          370
+        ],
+        [
+          265,
+          441
+        ],
+        [
+          195,
+          448
+        ]
+      ]
+    },
+    {
+      "cell_id": 59,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7331243469174503,
+        "mostly_healthy": 0.15778474399164055,
+        "mostly_unhealthy": 0.1115987460815047,
+        "very_unhealthy": 0.05141065830721003
+      },
+      "center": [
+        298,
+        405
+      ],
+      "bounds": {
+        "min_x": 265,
+        "max_x": 333,
+        "min_y": 369,
+        "max_y": 441
+      },
+      "corners": [
+        [
+          267,
+          370
+        ],
+        [
+          333,
+          369
+        ],
+        [
+          330,
+          440
+        ],
+        [
+          265,
+          441
+        ]
+      ]
+    },
+    {
+      "cell_id": 60,
+      "classification": "very_healthy",
+      "ratios": {
+        "very_healthy": 0.7784014369106421,
+        "mostly_healthy": 0.09137853614728333,
+        "mostly_unhealthy": 0.09811405478221823,
+        "very_unhealthy": 0.033902110462505616
+      },
+      "center": [
+        361,
+        405
+      ],
+      "bounds": {
+        "min_x": 330,
+        "max_x": 392,
+        "min_y": 369,
+        "max_y": 442
+      },
+      "corners": [
+        [
+          333,
+          369
+        ],
+        [
+          391,
+          369
+        ],
+        [
+          392,
+          442
+        ],
+        [
+          330,
+          440
+        ]
+      ]
+    },
+    {
+      "cell_id": 61,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.015915119363395226,
+        "mostly_healthy": 0.005305039787798408,
+        "mostly_unhealthy": 0.03116710875331565,
+        "very_unhealthy": 0.9502652519893899
+      },
+      "center": [
+        421,
+        405
+      ],
+      "bounds": {
+        "min_x": 391,
+        "max_x": 460,
+        "min_y": 369,
+        "max_y": 442
+      },
+      "corners": [
+        [
+          391,
+          369
+        ],
+        [
+          460,
+          370
+        ],
+        [
+          444,
+          442
+        ],
+        [
+          392,
+          442
+        ]
+      ]
+    },
+    {
+      "cell_id": 62,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.004793426158411321,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.09974891577265464,
+        "very_unhealthy": 0.9653047249486418
+      },
+      "center": [
+        483,
+        404
+      ],
+      "bounds": {
+        "min_x": 444,
+        "max_x": 524,
+        "min_y": 369,
+        "max_y": 442
+      },
+      "corners": [
+        [
+          460,
+          370
+        ],
+        [
+          524,
+          369
+        ],
+        [
+          504,
+          436
+        ],
+        [
+          444,
+          442
+        ]
+      ]
+    },
+    {
+      "cell_id": 63,
+      "classification": "mostly_unhealthy",
+      "ratios": {
+        "very_healthy": 0.0715909090909091,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.6818181818181818,
+        "very_unhealthy": 0.23143939393939394
+      },
+      "center": [
+        551,
+        404
+      ],
+      "bounds": {
+        "min_x": 504,
+        "max_x": 591,
+        "min_y": 369,
+        "max_y": 440
+      },
+      "corners": [
+        [
+          524,
+          369
+        ],
+        [
+          591,
+          372
+        ],
+        [
+          588,
+          440
+        ],
+        [
+          504,
+          436
+        ]
+      ]
+    },
+    {
+      "cell_id": 64,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.04123918728626031,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.05069402534701267,
+        "very_unhealthy": 0.9314021323677328
+      },
+      "center": [
+        624,
+        405
+      ],
+      "bounds": {
+        "min_x": 588,
+        "max_x": 661,
+        "min_y": 370,
+        "max_y": 441
+      },
+      "corners": [
+        [
+          591,
+          372
+        ],
+        [
+          657,
+          370
+        ],
+        [
+          661,
+          441
+        ],
+        [
+          588,
+          440
+        ]
+      ]
+    },
+    {
+      "cell_id": 65,
+      "classification": "very_unhealthy",
+      "ratios": {
+        "very_healthy": 0.033008096325513804,
+        "mostly_healthy": 0.0,
+        "mostly_unhealthy": 0.10193066223790741,
+        "very_unhealthy": 0.9327382188083869
+      },
+      "center": [
+        692,
+        406
+      ],
+      "bounds": {
+        "min_x": 657,
+        "max_x": 728,
+        "min_y": 370,
+        "max_y": 442
+      },
+      "corners": [
+        [
+          657,
+          370
+        ],
+        [
+          723,
+          372
+        ],
+        [
+          728,
+          442
+        ],
+        [
+          661,
+          441
+        ]
+      ]
+    }
+  ]
+}
