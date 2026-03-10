@@ -447,5 +447,5 @@ if __name__ == "__main__":
 
 '''
  Bash Script (3):
- python aug-field-analysis_AWS.py assets/overhead_img.jpg assets/field_node_coords.json assets/field_node_health.json assets/raw_health_data.json -o assets/aug_field_analysis.jpg -j assets/updated_health_data.json
+ python aug-field-analysis_CG.py assets/overhead_img.jpg assets/field_node_coords.json assets/field_node_health.json assets/raw_health_data.json -o assets/aug_field_analysis.jpg -j assets/updated_health_data.json
 '''
