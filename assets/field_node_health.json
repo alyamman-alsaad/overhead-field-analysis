@@ -1,22 +1,38 @@
 {
   "FN_1": {
-    "health_status": "healthy",
+    "timestamp": 1773027532,
+    "node_type": "Field Node",
+    "node_id": "FN_1",
+    "health_class": "Healthy",
     "battery": 100,
-    "soil-moisture": 500
+    "soil_moisture": "Very Wet",
+    "soil-moisture-raw": 2000
   },
   "FN_2": {
-    "health_status": "healthy",
-    "battery": 100,
-    "soil-moisture": 500
+    "timestamp": 1773027532,
+    "node_type": "Field Node",
+    "node_id": "FN_2",
+    "health_class": "Healthy",
+    "battery": 75,
+    "soil_moisture": "Very Wet",
+    "soil-moisture-raw": 2000
   },
   "FN_3": {
-    "health_status": "bacterial",
-    "battery": 100,
-    "soil-moisture": 500
+    "timestamp": 1773027532,
+    "node_type": "Field Node",
+    "node_id": "FN_3",
+    "health_class": "Bacterial",
+    "battery": 50,
+    "soil_moisture": "Very Dry",
+    "soil-moisture-raw": 200
   },
   "FN_4": {
-    "health_status": "healthy",
-    "battery": 100,
-    "soil-moisture": 500
+    "timestamp": 1773027532,
+    "node_type": "Field Node",
+    "node_id": "FN_4",
+    "health_class": "Healthy",
+    "battery": 25,
+    "soil_moisture": "Very Wet",
+    "soil-moisture-raw": 2000
   }
 }

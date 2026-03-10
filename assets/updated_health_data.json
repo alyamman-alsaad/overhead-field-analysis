@@ -21,8 +21,10 @@
         121,
         121
       ],
-      "battery": 100,
-      "soil_moisture": 500
+      "battery": 50,
+      "soil_moisture": "Very Dry",
+      "soil_moisture_raw": 200,
+      "timestamp": 1773027532
     },
     {
       "node_id": "FN_4",
@@ -38,8 +40,10 @@
         1,
         1
       ],
-      "battery": 100,
-      "soil_moisture": 500
+      "battery": 25,
+      "soil_moisture": "Very Wet",
+      "soil_moisture_raw": 2000,
+      "timestamp": 1773027532
     },
     {
       "node_id": "FN_2",
@@ -55,8 +59,10 @@
         1,
         1
       ],
-      "battery": 100,
-      "soil_moisture": 500
+      "battery": 75,
+      "soil_moisture": "Very Wet",
+      "soil_moisture_raw": 2000,
+      "timestamp": 1773027532
     },
     {
       "node_id": "FN_1",
@@ -73,7 +79,9 @@
         1
       ],
       "battery": 100,
-      "soil_moisture": 500
+      "soil_moisture": "Very Wet",
+      "soil_moisture_raw": 2000,
+      "timestamp": 1773027532
     }
   ],
   "cells": [

@@ -77,7 +77,7 @@ class FieldNodeIntegrator:
         Get the BGR color for a node based on its health status and field classification.
 
         Args:
-            node_health_status: 'healthy' or 'bacterial'
+            node_health_status: 'healthy' or 'bacterial' (lowercase)
             field_classification: 'very_healthy', 'mostly_healthy', etc.
 
         Returns:
@@ -123,7 +123,8 @@ class FieldNodeIntegrator:
 
             # Get node health status
             health_data = node_health.get(node_id, {})
-            health_status = health_data.get('health_status', 'healthy')
+            # Convert health_class to lowercase for internal processing
+            health_status = health_data.get('health_class', 'Healthy').lower()
 
             # Find which field cell this node is in
             cell = self.find_cell_for_point(x, y, cells_data)
@@ -152,7 +153,9 @@ class FieldNodeIntegrator:
                 'cell_id': cell_id,
                 'color': node_color,
                 'battery': health_data.get('battery', None),
-                'soil_moisture': health_data.get('soil-moisture', None)
+                'soil_moisture': health_data.get('soil_moisture', None),
+                'soil_moisture_raw': health_data.get('soil-moisture-raw', None),
+                'timestamp': health_data.get('timestamp', None)
             })
 
             print(f"{node_id}: {health_status} node in {field_classification} section, "
